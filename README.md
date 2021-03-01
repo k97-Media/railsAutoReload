@@ -77,6 +77,10 @@ In **Guardfile** add this line :
 
 ## Locations:
 
+1. Gems we added in [Gemfile](https://github.com/k97-Media/railsAutoReload/blob/39a29dfcf8692118008be663bbb29ee069d55449/Gemfile#L47)
+2. Line we added in [Middelware](https://github.com/k97-Media/railsAutoReload/blob/39a29dfcf8692118008be663bbb29ee069d55449/config/environments/development.rb#L82)
+3. Line we added in [Guardfile](https://github.com/k97-Media/railsAutoReload/blob/39a29dfcf8692118008be663bbb29ee069d55449/Guardfile#L57)
+
 
 
 
