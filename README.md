@@ -14,7 +14,7 @@ It can be done with some few steps.
 * Below you can read all the steps in text form.
 For the video you can visit this LINK
 
-* Check this **list** to see the different locations that we needed to add new codes
+* Check this **list** at the end of this Readme to see the different locations that we needed to add new codes
 
 
 ---------------------------------------
