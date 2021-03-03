@@ -4,7 +4,7 @@ This is a short Video on **adding auto reload for rails applications**
 -------------------------
 Link to the : [YOUTUBE CHANNEL](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
 
-Link to the video : not yet published
+Link to the video : https://youtu.be/3H-vcOdFKYc
 
 -------------------------------------------
 
