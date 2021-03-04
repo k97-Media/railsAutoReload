@@ -12,7 +12,7 @@ Link to the video : https://youtu.be/3H-vcOdFKYc
 It can be done with some few steps.
 
 * Below you can read all the steps in text form.
-For the video you can visit this LINK
+For the video you can visit this [LINK](https://youtu.be/3H-vcOdFKYc)
 
 * Check this **list** at the end of this Readme to see the different locations that we needed to add new codes
 
@@ -37,8 +37,7 @@ For the video you can visit this LINK
   $ bundle exec guard init livereload
   ```
   This command will add Guardfile to the project.
-  This command will download and configure all needed **Configs**.
-* Now we need to add the **middleware** to our **Rails middleware** stack
+* Now we need add a line to our **Rails middleware** stack
   For this open **config/environments/development.rb**
   Add the code below to the end of the file
   ```
